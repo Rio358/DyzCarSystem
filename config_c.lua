@@ -3,8 +3,8 @@ Config = {};
 Config['useKM'] = false; -- Set true to use KM/H unit
 
 Config['seatbeltInput'] = 29; -- Toggle seatbelt on/off with B
-Config['seatbeltEjectSpeed'] = 45.0; -- Speed threshold to eject player (MPH)
-Config['seatbeltEjectAccel'] = 100.0; -- Acceleration threshold to eject player (G's)
+Config['seatbeltEjectSpeed'] = 120.0; -- Speed threshold to eject player (MPH)
+Config['seatbeltEjectAccel'] = 80.0; -- Acceleration threshold to eject player (G's)
 
 Config['cruiseInput'] = 137; -- Toggle cruise on/off with CAPSLOCK or A button (controller)
 
